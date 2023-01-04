@@ -1,0 +1,6 @@
+Spaceship art
+    link: https://opengameart.org/content/spaceships-xenis
+    by: Carlos Alface
+    resourcer folder: \resources\art\spaceships\
+
+    TODO: add a thank you to the designer
